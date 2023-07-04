@@ -9,10 +9,10 @@ The goals of the dataset is to analyze the groups, find if the ads were successf
 
 Data dictionary:
 
-Index: Row index
-user id: User ID (unique)
-test group: If "AD" the person saw the advertisement, if "PSA" they only saw the public service announcement
-converted: If a person bought the product then True, else is False
-total ads: Amount of ads seen by person
-most ads day: Day that the person saw the biggest amount of ads
-most ads hour: Hour of day that the person saw the biggest amount of ads
+- Index: Row index
+- user id: User ID (unique)
+- test group: If "AD" the person saw the advertisement, if "PSA" they only saw the public service announcement
+- converted: If a person bought the product then True, else is False
+- total ads: Amount of ads seen by person
+- most ads day: Day that the person saw the biggest amount of ads
+- most ads hour: Hour of day that the person saw the biggest amount of ads
